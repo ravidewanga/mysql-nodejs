@@ -1,6 +1,5 @@
 # mysql-nodejs
 
-//---- url------------------
 request : get
 url : http://localhost:3000/get-list
 
