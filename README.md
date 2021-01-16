@@ -1,4 +1,5 @@
 # mysql-nodejs
+#You should need to import the DB file
 
 all record,
 request : get,
